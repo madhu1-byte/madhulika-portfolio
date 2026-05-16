@@ -7,7 +7,7 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const LINKS = {
   linkedin: "https://www.linkedin.com/in/madhulika-utla/",
-  github: "https://github.com/Pixelated-man",
+  github: "https://github.com/madhu1-byte",
   email: "mailto:madhu.myskss@gmail.com",
   resumePdf: "/Madhulika_Resume.pdf",
 };
